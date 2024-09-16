@@ -153,7 +153,7 @@ pnpm run dev
 | [<img height="50" src="https://raw.githubusercontent.com/ckb-ecofund/ccc/master/assets/projects/nervape.svg" />](https://www.nervape.com/) | [<img height="50" src="https://raw.githubusercontent.com/ckb-ecofund/ccc/master/assets/projects/utxoglobal.svg" />](https://utxo.global/) | [<img height="50" src="https://raw.githubusercontent.com/ckb-ecofund/ccc/master/assets/projects/boolnetwork.svg" />](https://bool.network/) | [<img height="50" src="https://raw.githubusercontent.com/ckb-ecofund/ccc/master/assets/projects/joydao.svg" />](https://joydao.cc/) | [<img height="50" src="https://raw.githubusercontent.com/ckb-ecofund/ccc/master/assets/projects/world3.svg" />](https://world3.ai/) |
 | ------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
 
-| [<img height="50" src="ccc/assets/projects/rgbcat.svg" />](https://catnip.rgbcat.io/) |
+| [<img height="50" src="assets/projects/rgbcat.svg" />](https://catnip.rgbcat.io/) |
 | ------------------------------------------------------------------------------------------------------------------------------------------ | 
 ## FAQs
 
